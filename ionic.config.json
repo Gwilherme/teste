@@ -1,0 +1,7 @@
+{
+  "name": "Objetivo-Vendas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
